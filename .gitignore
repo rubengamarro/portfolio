@@ -1,0 +1,10 @@
+research/
+qa/
+__pycache__/
+*.zip
+.env
+project-status.md
+release-manifest.json
+revise_portfolio.py
+audit_revision.py
+prepare_fonts.py
